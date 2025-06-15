@@ -14,9 +14,13 @@
 
 - 📫 Let’s connect **katuwalyogendra2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yogendra-katuwal-25972236b/"alt="yogendra-katuwal-dev" height="30" width="40" /></a>
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogendra-katuwal-25972236b/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/coder_yagy/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](www.youtube.com/@CODER_YOGYA)
+="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
