@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykcodehub&label=Profile%20views&color=0e75b6&style=flat" alt="ykcodehub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ykcodehub" alt="ykcodehub" /></a> </p>
-
 - 🌱 Currently leveling up in **React.js, DSA, Java, ML, javaScript computer vision...**
 
 - 👯 Open to collaborate on **Smart Parking System using Computer Vision**
