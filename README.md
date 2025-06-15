@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yogendra Katuwal</h1>
+<h1 align="center">Hey👋, Yogendra Katuwal here..</h1>
 <h3 align="center">Aspiring Software Engineer | AI & ML Enthusiast | CSE Student</h3>
-<h2 align="center">Ideas > Code > Reality — That’s my process.</h2>
+<h4 align="center">Ideas > Code > Reality — That’s my process.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykcodehub&label=Profile%20views&color=0e75b6&style=flat" alt="ykcodehub" /> </p>
 
