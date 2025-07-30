@@ -1,6 +1,6 @@
 <!-- 🚀 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey%2C+I'm+Yogendra+Katuwal+%F0%9F%91%8B;Way+On+Software+Developer+Engineer;alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey%2C+I'm+Yogendra+Katuwal+%F0%9F%91%8B;Way+On+Software+Developer+Engineer;" />
 </p>
 
 ---
