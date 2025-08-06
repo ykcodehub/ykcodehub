@@ -32,32 +32,33 @@
 
 ---
 
-##  Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Languages & Fundamentals
-<p>
+<h3 align="center"> Languages & Fundamentals </h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
-</p>
+</div>
 
-### Web & Application Development
-<p>
+<h3 align="center"> Web & Application  </h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
+</div>
 
-### Tools & Platforms
-<p>
+
+<h3 align="center"> Tools & Platforms </h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,mysql,linux,vscode" />
-</p>
+</div>
 
-### AI / ML & Computer Vision
-<p>
+
+<h3 align="center"> AI / ML  </h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-</p>
+</div>
 
 ---
 
-
-## 📬 Connect with Me
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:katuwalyogendra2@gmail.com" target="_blank">
@@ -76,7 +77,7 @@
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ykcodehub&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
@@ -89,7 +90,7 @@
 
 ---
 
-## Activity Graph
+<h2 align = "center"> Activity Graph </h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykcodehub&theme=dracula&bg_color=000000&color=00ffff&line=00ffff&point=ffffff" width="100%" />
@@ -97,7 +98,7 @@
 
 ---
 
-##  Animated Footer
+<h2 align = "center"> Animated Footer </h2>
 
 <p align="center">
   <img src="https://gist.githubusercontent.com/Aleksi44/da96f10eb2aad96475c5cba44f760bdf/raw/svg-animation-waves.svg" alt="Animated Gradient Wave" width="100%" />
