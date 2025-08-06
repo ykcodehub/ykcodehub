@@ -22,7 +22,7 @@
 
 <p align="center"><strong>Projects:</strong></p>
 <p align="center">
-  <a href="https://github.com/ykcodehub/Gesture-Detection-and-Autonomous-decision-making-ML-model-" target="_blank">Gesture Detection & Autonomous Decision Model</a> &nbsp;|&nbsp;
+  <a href="https://github.com/ykcodehub/Gesture-Detection-and-Autonomous-decision-making-ML-model-" target="_blank">Gesture Detection AI Model</a> &nbsp;|&nbsp;
   <a href="https://github.com/ykcodehub/MultiClient_ChatApplication" target="_blank">MultiClient ChatApp</a> &nbsp;|&nbsp;
   <a href="https://github.com/ykcodehub/AnnRakshak-AI" target="_blank">AnnRakshak-AI</a>
 </p>
